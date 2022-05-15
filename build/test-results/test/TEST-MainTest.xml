@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T18:20:44" hostname="LAPTOP-1KG1LDAP" time="0.013">
+  <properties/>
+  <testcase name="testRoundNumber()" classname="MainTest" time="0.011"/>
+  <testcase name="testDiscardPart()" classname="MainTest" time="0.001"/>
+  <testcase name="testEqualsTwoDouble()" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[BeforeAll
+Р§РёСЃР»Р° СЂР°РІРЅС‹
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
